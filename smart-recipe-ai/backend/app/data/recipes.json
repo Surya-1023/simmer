@@ -1,0 +1,1881 @@
+[
+  {
+    "id": "R001",
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "region": "Tamil Nadu style",
+    "meal_type": "Lunch",
+    "category": "biryani",
+    "tags": [
+      "chicken",
+      "rice",
+      "biryani",
+      "one pot",
+      "south indian"
+    ],
+    "aliases": [
+      "chicken biriyani",
+      "chicken briyani",
+      "nattu kozhi biryani",
+      "classic chicken biryani"
+    ],
+    "description": "A layered, aromatic chicken and basmati rice dish with mint, fried onion and whole spices.",
+    "ingredients": [
+      "chicken",
+      "basmati rice",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger garlic paste",
+      "green chilli",
+      "mint",
+      "coriander leaves",
+      "biryani masala",
+      "chilli powder",
+      "turmeric",
+      "lemon",
+      "oil",
+      "ghee",
+      "bay leaf",
+      "clove",
+      "cardamom",
+      "cinnamon",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g",
+        "note": "Bone-in pieces give a richer flavour."
+      },
+      {
+        "name": "Basmati rice",
+        "quantity": "500 g (about 2½ cups)"
+      },
+      {
+        "name": "Onion",
+        "quantity": "3 medium, thinly sliced"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Plain yogurt",
+        "quantity": "150 g"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Green chillies",
+        "quantity": "3, slit"
+      },
+      {
+        "name": "Mint leaves",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Coriander leaves",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Biryani masala",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Red chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Turmeric powder",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "4 tbsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Bay leaves",
+        "quantity": "2"
+      },
+      {
+        "name": "Cloves",
+        "quantity": "4"
+      },
+      {
+        "name": "Green cardamom",
+        "quantity": "4"
+      },
+      {
+        "name": "Cinnamon",
+        "quantity": "1-inch piece"
+      },
+      {
+        "name": "Salt",
+        "quantity": "about 2 tsp, adjust to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "as needed for rice and gravy"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 30,
+    "cooking_time": 35,
+    "difficulty": "Medium",
+    "instructions": [
+      "Wash the basmati rice until the water runs mostly clear. Soak for 20 minutes, then drain.",
+      "Mix the chicken with yogurt, ginger-garlic paste, biryani masala, chilli powder, turmeric, lemon juice and salt. Rest for at least 20 minutes.",
+      "Heat oil and ghee in a heavy pot. Fry the sliced onions until deep golden; reserve a small handful for garnish.",
+      "Add bay leaves, cloves, cardamom and cinnamon. Add green chillies and tomatoes; cook until the tomatoes soften.",
+      "Add the marinated chicken and cook for 8–10 minutes, stirring, until the outside changes colour and the masala thickens.",
+      "Stir in half the mint and coriander. Add the drained rice and gently mix once so the grains do not break.",
+      "Add hot water to suit your rice and pot; the liquid should be just enough for the rice to cook. Taste and adjust salt.",
+      "Cover tightly. Cook on medium-low for 8 minutes, then on the lowest heat for 12–15 minutes, until the rice is tender and chicken is fully cooked.",
+      "Rest covered for 10 minutes. Fluff gently and garnish with the reserved fried onion, mint and coriander."
+    ],
+    "tips": [
+      "For dum cooking, keep the flame very low and use a thick-bottomed pot or a heat diffuser.",
+      "Chicken should reach 74°C / 165°F at the thickest part before serving."
+    ]
+  },
+  {
+    "id": "R002",
+    "name": "Tomato Rice",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu",
+    "meal_type": "Lunch",
+    "category": "rice",
+    "tags": [
+      "rice",
+      "tomato",
+      "south indian",
+      "vegetarian"
+    ],
+    "aliases": [
+      "thakkali sadam",
+      "tomato sadham"
+    ],
+    "description": "Tomato Rice, a home-style Tamil Nadu dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "rice",
+      "tomato",
+      "onion",
+      "green chilli",
+      "ginger",
+      "garlic",
+      "mustard seeds",
+      "curry leaves",
+      "turmeric",
+      "chilli powder",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Cooked rice",
+        "quantity": "3 cups, cooled"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "3 medium, chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium, sliced"
+      },
+      {
+        "name": "Green chilli",
+        "quantity": "2, slit"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1 tsp, finely chopped"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "3 cloves, chopped"
+      },
+      {
+        "name": "Mustard seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "¼ tsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 15,
+    "cooking_time": 20,
+    "difficulty": "Easy",
+    "instructions": [
+      "Cook rice until the grains are separate. Spread it on a plate and let it cool.",
+      "Heat oil; splutter mustard seeds and add curry leaves.",
+      "Add onion, green chilli, ginger and garlic. Sauté until the onion softens.",
+      "Add tomatoes, turmeric, chilli powder and salt. Cook until pulpy and the oil begins to show at the edges.",
+      "Add the cooled rice and fold gently until every grain is coated.",
+      "Rest for 5 minutes and serve with curd or papad."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R003",
+    "name": "Everyday Chicken Curry",
+    "cuisine": "Indian",
+    "region": "Home-style",
+    "meal_type": "Lunch",
+    "category": "curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "gravy",
+      "indian"
+    ],
+    "aliases": [
+      "simple chicken curry",
+      "home style chicken curry"
+    ],
+    "description": "Everyday Chicken Curry, a home-style Home-style dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger garlic paste",
+      "coconut",
+      "curry leaves",
+      "chilli powder",
+      "coriander powder",
+      "turmeric",
+      "fennel",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g"
+      },
+      {
+        "name": "Onions",
+        "quantity": "2 large, chopped"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1½ tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "1½–2 cups"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 20,
+    "cooking_time": 35,
+    "difficulty": "Medium",
+    "instructions": [
+      "Grind the coconut with a little water to a smooth paste and keep aside.",
+      "Heat oil in a kadai. Add fennel seeds and curry leaves.",
+      "Add onions and sauté until golden. Add ginger-garlic paste and cook until its raw smell fades.",
+      "Add tomatoes, turmeric, chilli powder, coriander powder and salt. Cook until soft and thick.",
+      "Add chicken and turn well in the masala for 5 minutes.",
+      "Add water, cover and simmer until the chicken is fully cooked, about 20–25 minutes depending on the pieces.",
+      "Stir in coconut paste and simmer uncovered for 5–7 minutes until the gravy reaches the thickness you like."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R004",
+    "name": "Vegetable Fried Rice",
+    "cuisine": "Indo-Chinese",
+    "region": "Indo-Chinese",
+    "meal_type": "Dinner",
+    "category": "rice",
+    "tags": [
+      "rice",
+      "vegetarian",
+      "indo chinese"
+    ],
+    "aliases": [
+      "veg fried rice"
+    ],
+    "description": "Vegetable Fried Rice, a home-style Indo-Chinese dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "rice",
+      "carrot",
+      "beans",
+      "onion",
+      "garlic",
+      "capsicum",
+      "soy sauce",
+      "spring onion",
+      "oil",
+      "pepper",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Cooked rice",
+        "quantity": "3 cups, chilled"
+      },
+      {
+        "name": "Carrot",
+        "quantity": "½ cup, finely diced"
+      },
+      {
+        "name": "Beans",
+        "quantity": "½ cup, finely chopped"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "½ cup, diced"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small, sliced"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "4 cloves, minced"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Spring onion",
+        "quantity": "2 tbsp, chopped"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 15,
+    "cooking_time": 10,
+    "difficulty": "Easy",
+    "instructions": [
+      "Use cold, separate-grain rice for the best texture.",
+      "Heat oil in a wok on high heat. Add garlic and onion; toss for 30 seconds.",
+      "Add carrot, beans and capsicum. Stir-fry for 2–3 minutes so the vegetables stay slightly crisp.",
+      "Add rice, soy sauce, pepper and a little salt. Toss until hot throughout.",
+      "Finish with spring onion and serve immediately."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R005",
+    "name": "Egg Masala",
+    "cuisine": "Indian",
+    "region": "South Indian",
+    "meal_type": "Dinner",
+    "category": "masala",
+    "tags": [
+      "egg",
+      "curry",
+      "masala"
+    ],
+    "aliases": [
+      "muttai masala",
+      "egg curry"
+    ],
+    "description": "Egg Masala, a home-style South Indian dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "egg",
+      "onion",
+      "tomato",
+      "ginger garlic paste",
+      "chilli powder",
+      "coriander powder",
+      "turmeric",
+      "garam masala",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Eggs",
+        "quantity": "4"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium, finely chopped"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1½ tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "¼ tsp"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 2,
+    "prep_time": 10,
+    "cooking_time": 20,
+    "difficulty": "Easy",
+    "instructions": [
+      "Boil eggs for 9–10 minutes, cool, peel and make shallow slits.",
+      "Heat oil and sauté onions until golden. Add ginger-garlic paste.",
+      "Add tomatoes, turmeric, chilli powder, coriander powder and salt. Cook until soft and the masala thickens.",
+      "Add ½ cup water and simmer to make a gravy.",
+      "Add eggs and garam masala. Simmer for 4–5 minutes, turning the eggs gently to coat.",
+      "Serve hot with rice, dosa or chapati."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R006",
+    "name": "Masala Dosa",
+    "cuisine": "South Indian",
+    "region": "Karnataka / Tamil Nadu",
+    "meal_type": "Breakfast",
+    "category": "dosa",
+    "tags": [
+      "vegetarian",
+      "breakfast",
+      "dosa"
+    ],
+    "aliases": [
+      "masala dosai"
+    ],
+    "description": "Masala Dosa, a home-style Karnataka / Tamil Nadu dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "dosa batter",
+      "potato",
+      "onion",
+      "green chilli",
+      "mustard seeds",
+      "urad dal",
+      "curry leaves",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Dosa batter",
+        "quantity": "3 cups"
+      },
+      {
+        "name": "Potatoes",
+        "quantity": "3 medium"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium, sliced"
+      },
+      {
+        "name": "Green chilli",
+        "quantity": "2, chopped"
+      },
+      {
+        "name": "Mustard seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Urad dal",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "¼ tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 15,
+    "cooking_time": 20,
+    "difficulty": "Medium",
+    "instructions": [
+      "Boil potatoes until tender, peel and roughly mash.",
+      "Heat oil. Add mustard seeds, urad dal and curry leaves.",
+      "Add onion and green chilli; sauté until soft. Add turmeric, potatoes, salt and ¼ cup water. Mix to make the filling.",
+      "Spread a ladle of dosa batter thinly on a hot greased tawa.",
+      "Drizzle a little oil. Cook until the underside turns golden.",
+      "Place potato masala in the centre, fold and serve with chutney and sambar."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R007",
+    "name": "Garlic Chicken",
+    "cuisine": "Indo-Chinese",
+    "region": "Indo-Chinese",
+    "meal_type": "Dinner",
+    "category": "stir fry",
+    "tags": [
+      "chicken",
+      "garlic",
+      "indo chinese"
+    ],
+    "aliases": [
+      "garlic chicken gravy"
+    ],
+    "description": "Garlic Chicken, a home-style Indo-Chinese dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "garlic",
+      "onion",
+      "capsicum",
+      "soy sauce",
+      "corn flour",
+      "pepper",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Boneless chicken",
+        "quantity": "500 g, bite-size"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "10 cloves, finely chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 medium, cubed"
+      },
+      {
+        "name": "Capsicum",
+        "quantity": "1, cubed"
+      },
+      {
+        "name": "Soy sauce",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Corn flour",
+        "quantity": "1 tbsp + 1 tsp for slurry"
+      },
+      {
+        "name": "Pepper",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "½ cup"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 15,
+    "cooking_time": 20,
+    "difficulty": "Medium",
+    "instructions": [
+      "Coat chicken with 1 tbsp corn flour, pepper and a pinch of salt.",
+      "Heat oil and cook chicken in batches until browned and cooked through. Set aside.",
+      "In the same pan sauté garlic until fragrant, then add onion and capsicum.",
+      "Add soy sauce and water; bring to a gentle simmer.",
+      "Mix 1 tsp corn flour with 2 tbsp cold water and stir it into the pan.",
+      "Return chicken and toss until coated in the glossy sauce. Serve hot."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R008",
+    "name": "Vegetable Upma",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu",
+    "meal_type": "Breakfast",
+    "category": "breakfast",
+    "tags": [
+      "vegetarian",
+      "breakfast",
+      "south indian"
+    ],
+    "aliases": [
+      "uppuma",
+      "rava upma"
+    ],
+    "description": "Vegetable Upma, a home-style Tamil Nadu dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "rava",
+      "onion",
+      "carrot",
+      "green chilli",
+      "mustard seeds",
+      "urad dal",
+      "curry leaves",
+      "oil",
+      "water",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Rava / semolina",
+        "quantity": "1 cup"
+      },
+      {
+        "name": "Water",
+        "quantity": "2½ cups"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small, chopped"
+      },
+      {
+        "name": "Carrot",
+        "quantity": "¼ cup, diced"
+      },
+      {
+        "name": "Green chilli",
+        "quantity": "1, chopped"
+      },
+      {
+        "name": "Mustard seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Urad dal",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "1 sprig"
+      },
+      {
+        "name": "Oil or ghee",
+        "quantity": "1½ tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "¾ tsp, adjust to taste"
+      }
+    ],
+    "servings": 2,
+    "prep_time": 10,
+    "cooking_time": 15,
+    "difficulty": "Easy",
+    "instructions": [
+      "Dry-roast rava on low heat for 4–5 minutes until aromatic; do not brown. Set aside.",
+      "Heat oil or ghee. Add mustard seeds, urad dal and curry leaves.",
+      "Add onion, green chilli and carrot. Sauté for 2–3 minutes.",
+      "Add water and salt; bring to a rolling boil.",
+      "Lower the heat and slowly rain in the rava while stirring continuously to avoid lumps.",
+      "Cover and cook on low for 3–4 minutes. Fluff and serve."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R009",
+    "name": "Tamil Nadu Village Chicken Curry",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu village style",
+    "meal_type": "Lunch",
+    "category": "curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "gravy",
+      "kulambu",
+      "tamil nadu",
+      "village style"
+    ],
+    "aliases": [
+      "village chicken curry",
+      "gramathu kozhi kulambu",
+      "authentic tamil chicken curry",
+      "chicken curry",
+      "recipe for chicken curry",
+      "tamil nadu chicken curry"
+    ],
+    "description": "Tamil Nadu Village Chicken Curry, a home-style Tamil Nadu village style dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "shallots",
+      "onion",
+      "tomato",
+      "ginger garlic paste",
+      "curry leaves",
+      "fennel",
+      "pepper",
+      "coriander powder",
+      "chilli powder",
+      "turmeric",
+      "coconut",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g, bone-in"
+      },
+      {
+        "name": "Small onions / shallots",
+        "quantity": "15, peeled"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 large, sliced"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "½ tsp, crushed"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "2 cups, as needed"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 20,
+    "cooking_time": 40,
+    "difficulty": "Medium",
+    "instructions": [
+      "Grind coconut with ½ cup water to a smooth paste. Crush half the shallots roughly.",
+      "Heat oil in a heavy kadai. Add fennel seeds and curry leaves.",
+      "Add remaining shallots and sliced onion. Fry until golden at the edges.",
+      "Add ginger-garlic paste and crushed shallots; sauté for 2 minutes.",
+      "Add tomatoes, turmeric, chilli powder, coriander powder and salt. Cook until the tomatoes turn mushy.",
+      "Add chicken and crushed pepper. Toss for 5–6 minutes so the masala coats every piece.",
+      "Pour in 1½ cups water. Cover and simmer for 20–25 minutes, stirring now and then, until chicken is cooked.",
+      "Add coconut paste and simmer uncovered for 6–8 minutes. Adjust water and salt; finish with curry leaves."
+    ],
+    "tips": [
+      "For a deeper village-style flavour, use a heavy iron kadai and freshly ground pepper.",
+      "Cook chicken thoroughly; the thickest piece should reach 74°C / 165°F."
+    ]
+  },
+  {
+    "id": "R010",
+    "name": "Chettinad Chicken Curry",
+    "cuisine": "South Indian",
+    "region": "Chettinad, Tamil Nadu",
+    "meal_type": "Lunch",
+    "category": "curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "gravy",
+      "chettinad",
+      "south indian"
+    ],
+    "aliases": [
+      "chettinad kozhi curry",
+      "chettinad chicken kulambu"
+    ],
+    "description": "Chettinad Chicken Curry, a home-style Chettinad, Tamil Nadu dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "ginger garlic paste",
+      "coconut",
+      "coriander seeds",
+      "fennel",
+      "cumin",
+      "black pepper",
+      "dry red chilli",
+      "cinnamon",
+      "clove",
+      "cardamom",
+      "curry leaves",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "⅓ cup"
+      },
+      {
+        "name": "Coriander seeds",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Black peppercorns",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Dry red chillies",
+        "quantity": "4"
+      },
+      {
+        "name": "Cinnamon",
+        "quantity": "1-inch piece"
+      },
+      {
+        "name": "Cloves",
+        "quantity": "3"
+      },
+      {
+        "name": "Cardamom",
+        "quantity": "2"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "1½–2 cups"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 20,
+    "cooking_time": 40,
+    "difficulty": "Medium",
+    "instructions": [
+      "Dry-roast coriander, fennel, cumin, pepper, dry red chillies, cinnamon, cloves and cardamom until aromatic. Cool.",
+      "Roast coconut separately until lightly golden. Grind the roasted spices and coconut with a little water into a paste.",
+      "Heat oil. Add curry leaves and onions; sauté until golden.",
+      "Add ginger-garlic paste and cook for 1 minute. Add tomatoes and cook until soft.",
+      "Add chicken and salt. Fry for 5–7 minutes until the chicken is coated in masala.",
+      "Add the ground Chettinad paste and 1½ cups water. Mix well.",
+      "Cover and simmer for 20–25 minutes, until chicken is completely cooked and gravy thickens.",
+      "Finish with fresh curry leaves and serve with rice, dosa or parotta."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R011",
+    "name": "Kongu Chicken Kulambu",
+    "cuisine": "South Indian",
+    "region": "Kongu region, Tamil Nadu",
+    "meal_type": "Lunch",
+    "category": "kulambu",
+    "tags": [
+      "chicken",
+      "curry",
+      "gravy",
+      "kulambu",
+      "kongu",
+      "south indian"
+    ],
+    "aliases": [
+      "kongu kozhi kulambu",
+      "kongu chicken curry"
+    ],
+    "description": "Kongu Chicken Kulambu, a home-style Kongu region, Tamil Nadu dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "small onion",
+      "tomato",
+      "ginger garlic paste",
+      "coconut",
+      "fennel",
+      "cumin",
+      "pepper",
+      "curry leaves",
+      "turmeric",
+      "chilli powder",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g, bone-in"
+      },
+      {
+        "name": "Small onions",
+        "quantity": "12, peeled"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 large, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1½ tbsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "2 cups"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 15,
+    "cooking_time": 40,
+    "difficulty": "Medium",
+    "instructions": [
+      "Grind coconut with fennel, cumin and pepper into a smooth masala paste.",
+      "Heat oil in a kadai. Add curry leaves and small onions; sauté until lightly golden.",
+      "Add ginger-garlic paste and tomato. Cook until tomato softens.",
+      "Add turmeric, chilli powder, salt and chicken. Roast together for 5 minutes.",
+      "Add water, cover and cook until chicken is tender, around 20–30 minutes.",
+      "Stir in the coconut-spice paste and simmer for 7–8 minutes until the kulambu thickens.",
+      "Taste and adjust salt. Serve with hot rice, idli or dosa."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R012",
+    "name": "Chicken Pepper Gravy",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu pepper style",
+    "meal_type": "Lunch",
+    "category": "gravy",
+    "tags": [
+      "chicken",
+      "pepper",
+      "gravy",
+      "curry",
+      "tamil nadu",
+      "south indian"
+    ],
+    "aliases": [
+      "pepper gravy",
+      "kozhi milagu gravy",
+      "chicken milagu kuzhambu",
+      "milagu chicken gravy"
+    ],
+    "description": "Chicken Pepper Gravy, a home-style Tamil Nadu pepper style dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "shallots",
+      "tomato",
+      "ginger garlic paste",
+      "black pepper",
+      "fennel",
+      "cumin",
+      "curry leaves",
+      "turmeric",
+      "coriander powder",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g, medium pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium, finely sliced"
+      },
+      {
+        "name": "Small onions / shallots",
+        "quantity": "10, sliced"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "1 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1½ tbsp"
+      },
+      {
+        "name": "Black peppercorns",
+        "quantity": "2 tbsp, coarsely crushed"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Cumin seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Hot water",
+        "quantity": "1½ cups, as needed"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 15,
+    "cooking_time": 40,
+    "difficulty": "Medium",
+    "instructions": [
+      "Coarsely crush the peppercorns. Keep a teaspoon aside for the final seasoning.",
+      "Heat oil in a kadai. Add fennel, cumin and curry leaves.",
+      "Add sliced onion and shallots. Sauté until golden and lightly caramelised.",
+      "Add ginger-garlic paste and cook until the raw aroma fades.",
+      "Add tomato, turmeric, coriander powder, half the crushed pepper and salt. Cook until the tomato becomes pulpy.",
+      "Add chicken and roast for 6–8 minutes, turning to coat well in the masala.",
+      "Pour in hot water, cover and simmer for 20–25 minutes, or until the chicken is fully cooked.",
+      "Remove the lid and reduce the gravy to your preferred consistency. Add the reserved pepper and simmer for 2 minutes.",
+      "Rest for 5 minutes before serving with rice, dosa, idli or parotta."
+    ],
+    "tips": [
+      "For a stronger pepper kick, add the reserved crushed pepper at the end rather than cooking all of it for a long time.",
+      "Adjust pepper gradually; freshly crushed pepper can be much hotter than pre-ground pepper."
+    ]
+  },
+  {
+    "id": "R013",
+    "name": "Country Chicken Kulambu",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu country-style",
+    "meal_type": "Lunch",
+    "category": "kulambu",
+    "tags": [
+      "chicken",
+      "country chicken",
+      "curry",
+      "gravy",
+      "kulambu",
+      "tamil nadu"
+    ],
+    "aliases": [
+      "nattu kozhi kulambu",
+      "country chicken curry",
+      "nattu kozhi curry"
+    ],
+    "description": "Country Chicken Kulambu, a home-style Tamil Nadu country-style dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "country chicken",
+      "small onion",
+      "tomato",
+      "ginger garlic paste",
+      "coconut",
+      "fennel",
+      "pepper",
+      "coriander seeds",
+      "curry leaves",
+      "turmeric",
+      "chilli powder",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Country chicken",
+        "quantity": "750 g, cleaned and cut"
+      },
+      {
+        "name": "Small onions",
+        "quantity": "15, peeled"
+      },
+      {
+        "name": "Tomato",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Coriander seeds",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "3 cups, adjust as needed"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 20,
+    "cooking_time": 55,
+    "difficulty": "Medium",
+    "instructions": [
+      "Dry-roast coriander, fennel and pepper. Grind with coconut and a little water.",
+      "Heat oil in a pressure cooker or heavy pot. Add curry leaves and small onions; sauté until golden.",
+      "Add ginger-garlic paste and tomatoes. Cook until the tomatoes soften.",
+      "Add turmeric, chilli powder, salt and country chicken. Roast for 5 minutes.",
+      "Add water. Pressure-cook for the time needed for your chicken to become tender; native chicken may take longer than broiler chicken.",
+      "Open only after pressure has released. Add the ground coconut masala.",
+      "Simmer uncovered for 8–10 minutes until the gravy thickens. Check that the chicken is tender and fully cooked."
+    ],
+    "tips": [
+      "Country chicken usually needs more cooking time than broiler chicken. Use tenderness, not the clock alone, to judge doneness."
+    ]
+  },
+  {
+    "id": "R014",
+    "name": "Chicken Sukka",
+    "cuisine": "South Indian",
+    "region": "Tamil Nadu dry masala",
+    "meal_type": "Dinner",
+    "category": "dry curry",
+    "tags": [
+      "chicken",
+      "dry curry",
+      "sukka",
+      "south indian"
+    ],
+    "aliases": [
+      "kozhi sukka",
+      "chicken chukka"
+    ],
+    "description": "Chicken Sukka, a home-style Tamil Nadu dry masala dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "ginger garlic paste",
+      "coconut",
+      "fennel",
+      "pepper",
+      "curry leaves",
+      "chilli powder",
+      "coriander powder",
+      "turmeric",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g, small pieces"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium, sliced"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1½ tbsp"
+      },
+      {
+        "name": "Grated coconut",
+        "quantity": "¼ cup"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Coriander powder",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Oil",
+        "quantity": "3 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 15,
+    "cooking_time": 35,
+    "difficulty": "Medium",
+    "instructions": [
+      "Coarsely grind fennel, pepper and coconut.",
+      "Heat oil; add curry leaves and onions. Sauté until golden.",
+      "Add ginger-garlic paste and cook briefly.",
+      "Add chicken, turmeric, chilli powder, coriander powder and salt. Mix well.",
+      "Cover and cook on low, stirring occasionally. Add a splash of water only if needed.",
+      "When chicken is cooked and tender, uncover and roast until most moisture evaporates.",
+      "Add the coconut-pepper mixture and stir-fry for 3–4 minutes until the masala coats the chicken."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R015",
+    "name": "Pepper Chicken Fry",
+    "cuisine": "South Indian",
+    "region": "South Indian pepper fry",
+    "meal_type": "Dinner",
+    "category": "fry",
+    "tags": [
+      "chicken",
+      "pepper",
+      "fry",
+      "dry"
+    ],
+    "aliases": [
+      "milagu chicken fry",
+      "pepper kozhi varuval"
+    ],
+    "description": "Pepper Chicken Fry, a home-style South Indian pepper fry dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "chicken",
+      "onion",
+      "ginger garlic paste",
+      "black pepper",
+      "fennel",
+      "curry leaves",
+      "lemon",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Boneless or bone-in chicken",
+        "quantity": "500 g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "2 medium, sliced"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Black pepper",
+        "quantity": "1½ tbsp, freshly crushed"
+      },
+      {
+        "name": "Fennel seeds",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Curry leaves",
+        "quantity": "2 sprigs"
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 10,
+    "cooking_time": 30,
+    "difficulty": "Medium",
+    "instructions": [
+      "Heat oil and add fennel and curry leaves.",
+      "Add onions and sauté until golden. Add ginger-garlic paste.",
+      "Add chicken, salt and half the crushed pepper. Mix and cook covered until chicken is done, adding a splash of water if needed.",
+      "Remove the lid and roast until the moisture dries and the pieces are lightly browned.",
+      "Add remaining pepper and lemon juice. Toss and serve hot."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R016",
+    "name": "Paneer Butter Masala",
+    "cuisine": "North Indian",
+    "region": "Punjabi-inspired",
+    "meal_type": "Dinner",
+    "category": "curry",
+    "tags": [
+      "paneer",
+      "vegetarian",
+      "curry",
+      "north indian"
+    ],
+    "aliases": [
+      "paneer makhani"
+    ],
+    "description": "Paneer Butter Masala, a home-style Punjabi-inspired dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "paneer",
+      "tomato",
+      "onion",
+      "ginger",
+      "garlic",
+      "cashew",
+      "butter",
+      "cream",
+      "garam masala",
+      "chilli powder",
+      "oil",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Paneer",
+        "quantity": "300 g, cubes"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "3 medium, chopped"
+      },
+      {
+        "name": "Onion",
+        "quantity": "1 small, chopped"
+      },
+      {
+        "name": "Ginger",
+        "quantity": "1-inch piece"
+      },
+      {
+        "name": "Garlic",
+        "quantity": "4 cloves"
+      },
+      {
+        "name": "Cashews",
+        "quantity": "12"
+      },
+      {
+        "name": "Butter",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Fresh cream",
+        "quantity": "¼ cup"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Kashmiri chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "½–1 cup"
+      }
+    ],
+    "servings": 3,
+    "prep_time": 10,
+    "cooking_time": 25,
+    "difficulty": "Easy",
+    "instructions": [
+      "Simmer tomatoes, onion, ginger, garlic and cashews with ½ cup water until soft. Cool and blend smooth.",
+      "Heat oil and butter in a pan. Add the blended sauce and cook for 5–7 minutes.",
+      "Add chilli powder, garam masala, salt and water to adjust thickness.",
+      "Add paneer and simmer gently for 3–4 minutes.",
+      "Stir in cream, warm through without boiling hard, and serve with naan or rice."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R017",
+    "name": "Mutton Biryani",
+    "cuisine": "Indian",
+    "region": "Tamil Nadu style",
+    "meal_type": "Lunch",
+    "category": "biryani",
+    "tags": [
+      "mutton",
+      "rice",
+      "biryani"
+    ],
+    "aliases": [
+      "mutton biriyani",
+      "mutton briyani"
+    ],
+    "description": "Mutton Biryani, a home-style Tamil Nadu style dish with a balanced, aromatic masala.",
+    "ingredients": [
+      "mutton",
+      "seeraga samba rice",
+      "onion",
+      "tomato",
+      "yogurt",
+      "ginger garlic paste",
+      "mint",
+      "coriander leaves",
+      "green chilli",
+      "biryani masala",
+      "chilli powder",
+      "turmeric",
+      "oil",
+      "ghee",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Mutton",
+        "quantity": "750 g"
+      },
+      {
+        "name": "Seeraga samba rice",
+        "quantity": "500 g"
+      },
+      {
+        "name": "Onion",
+        "quantity": "3 medium, sliced"
+      },
+      {
+        "name": "Tomatoes",
+        "quantity": "2 medium, chopped"
+      },
+      {
+        "name": "Yogurt",
+        "quantity": "150 g"
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Mint leaves",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Coriander leaves",
+        "quantity": "½ cup"
+      },
+      {
+        "name": "Green chillies",
+        "quantity": "3"
+      },
+      {
+        "name": "Biryani masala",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Chilli powder",
+        "quantity": "1 tsp"
+      },
+      {
+        "name": "Turmeric",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Oil",
+        "quantity": "4 tbsp"
+      },
+      {
+        "name": "Ghee",
+        "quantity": "2 tbsp"
+      },
+      {
+        "name": "Salt",
+        "quantity": "to taste"
+      },
+      {
+        "name": "Water",
+        "quantity": "as required"
+      }
+    ],
+    "servings": 4,
+    "prep_time": 30,
+    "cooking_time": 60,
+    "difficulty": "Medium",
+    "instructions": [
+      "Wash and soak rice for 20 minutes. Marinate mutton with yogurt, ginger-garlic paste, biryani masala, chilli powder, turmeric and salt.",
+      "Heat oil and ghee in a pressure cooker. Fry onions until golden; reserve a little for garnish.",
+      "Add green chillies, tomatoes, mint and coriander. Cook until tomatoes soften.",
+      "Add marinated mutton and sauté for 8–10 minutes.",
+      "Add water and pressure-cook until mutton is tender. Cooking time depends on the cut and age of the meat.",
+      "Measure the remaining gravy and add water so there is enough liquid for the rice. Bring to a boil.",
+      "Add drained rice. Mix gently, cover and cook on low until the rice is tender and liquid is absorbed.",
+      "Rest for 10 minutes. Fluff gently and garnish with fried onion and herbs."
+    ],
+    "tips": []
+  },
+  {
+    "id": "R018",
+    "name": "Afghani Chicken",
+    "cuisine": "Indian restaurant-style",
+    "region": "North Indian restaurant-style",
+    "meal_type": "Starter / Main course",
+    "category": "chicken starter",
+    "tags": [
+      "chicken",
+      "afghani",
+      "afghani chicken",
+      "white marinade",
+      "grilled chicken",
+      "restaurant style"
+    ],
+    "aliases": [
+      "afghani chicken",
+      "afgani chicken",
+      "afghan chicken",
+      "murgh afghani",
+      "chicken afghani",
+      "afghani murgh"
+    ],
+    "description": "Juicy chicken marinated in a mild, creamy white mixture of yogurt, cashew, cream, aromatics and warm spices, then grilled or pan-seared until lightly charred.",
+    "ingredients": [
+      "chicken",
+      "yogurt",
+      "cream",
+      "cashew",
+      "ginger garlic paste",
+      "green chilli",
+      "lemon",
+      "black pepper",
+      "cumin",
+      "cardamom",
+      "garam masala",
+      "kasuri methi",
+      "oil",
+      "butter",
+      "salt"
+    ],
+    "ingredient_details": [
+      {
+        "name": "Chicken",
+        "quantity": "750 g, medium pieces or boneless cubes",
+        "note": "Make 2–3 shallow slits in bone-in pieces so the marinade reaches inside."
+      },
+      {
+        "name": "Thick plain yogurt",
+        "quantity": "½ cup (120 g)",
+        "note": "Whisk until smooth."
+      },
+      {
+        "name": "Fresh cream",
+        "quantity": "¼ cup (60 ml)"
+      },
+      {
+        "name": "Cashews",
+        "quantity": "15–18",
+        "note": "Soak in hot water for 15 minutes, then grind to a smooth paste."
+      },
+      {
+        "name": "Ginger-garlic paste",
+        "quantity": "1½ tbsp"
+      },
+      {
+        "name": "Green chillies",
+        "quantity": "2, deseeded and finely ground",
+        "note": "Use 1 for a milder version."
+      },
+      {
+        "name": "Lemon juice",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "White or black pepper",
+        "quantity": "1 tsp, freshly ground"
+      },
+      {
+        "name": "Cumin powder",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Green cardamom powder",
+        "quantity": "¼ tsp"
+      },
+      {
+        "name": "Garam masala",
+        "quantity": "½ tsp"
+      },
+      {
+        "name": "Kasuri methi",
+        "quantity": "1 tsp, crushed"
+      },
+      {
+        "name": "Neutral oil",
+        "quantity": "1 tbsp"
+      },
+      {
+        "name": "Butter",
+        "quantity": "1 tbsp, for finishing"
+      },
+      {
+        "name": "Salt",
+        "quantity": "1¼ tsp, or to taste"
+      },
+      {
+        "name": "Extra cream and coriander",
+        "quantity": "1 tbsp cream and 2 tbsp chopped coriander",
+        "note": "Optional garnish."
+      }
+    ],
+    "servings": 4,
+    "prep_time": 25,
+    "cooking_time": 25,
+    "difficulty": "Medium",
+    "instructions": [
+      "Pat the chicken dry. If using bone-in pieces, make 2–3 shallow cuts in each piece; this helps the marinade season the meat evenly.",
+      "Grind the soaked cashews with 1–2 tablespoons of water until completely smooth. A coarse paste can make the coating grainy.",
+      "In a bowl, whisk together yogurt, cream, cashew paste, ginger-garlic paste, ground green chilli, lemon juice, pepper, cumin, cardamom, garam masala, crushed kasuri methi, oil and salt.",
+      "Add the chicken and turn each piece until thoroughly coated. Cover and refrigerate for at least 2 hours; 4–6 hours gives a deeper flavour. Do not leave raw chicken at room temperature while marinating.",
+      "Take the chicken out of the refrigerator 15 minutes before cooking. Preheat an oven or air fryer to 200°C, or heat a heavy grill pan or skillet over medium heat.",
+      "For oven or air fryer cooking, arrange the pieces in a single layer and cook for about 18–25 minutes, turning once halfway. For a skillet, cook in batches with a little oil, turning regularly so the creamy coating browns without burning.",
+      "Check the thickest part of the largest piece with a food thermometer. Chicken is ready when it reaches 74°C / 165°F; bone-in pieces may need extra time depending on size.",
+      "Brush with melted butter during the last 2 minutes. For light char, place under a hot grill briefly or sear each side in a hot pan, watching closely because the dairy marinade can darken quickly.",
+      "Rest the chicken for 5 minutes. Finish with a little cream and chopped coriander, then serve hot with naan, roomali roti, pulao or salad."
+    ],
+    "tips": [
+      "For the characteristic pale Afghani-style finish, keep chilli powder and turmeric out of the marinade; use green chilli and pepper for gentle heat.",
+      "If the marinade is too runny, add 1 tablespoon of extra cashew paste. A thick coating clings to the chicken and browns more evenly.",
+      "Cooking time depends on piece size and appliance. Use 74°C / 165°F at the thickest part as the doneness check."
+    ],
+    "substitutions": [
+      "Replace cashews with blanched almonds if needed; the flavour will be slightly different.",
+      "For a lighter marinade, replace half the cream with thick yogurt.",
+      "For a stovetop version, use a heavy skillet on medium-low heat and cover briefly after searing so thick pieces cook through."
+    ]
+  }
+]
